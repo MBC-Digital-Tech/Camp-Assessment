@@ -15,8 +15,10 @@ The program needs to ask suitable questions.
 In a single formatted sentence, it needs to say the campers name, age, number of days, chosen camp, difficulty level, meal choice.
 Give the total cost and confirm if they are attending or not, then print their decision.
 
-You also need to include comments and test the program works as expected
+You also need to include comments and test the program works as expected.
 
-More details on what is needed can be seen on the marking schedule  
- 
+More details on what is needed can be seen on the marking schedule.
+
+YOU MAY NOT WORK ON THIS AT HOME. YOU MUST PUSH YOUR CODE UP TO GITHUB AT THE END OF EACH CLASS.
+
 READ ALL THE REQUIREMENTS/MARKING SCHEDULE BEFORE YOU BEGIN.
